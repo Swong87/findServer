@@ -1,0 +1,20 @@
+{
+  "name": "boldco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codeTest.js",
+  "dierectories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "request": "^2.83.0"
+  }
+}
